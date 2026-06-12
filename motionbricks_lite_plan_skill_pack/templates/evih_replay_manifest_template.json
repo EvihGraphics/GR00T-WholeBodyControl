@@ -1,0 +1,21 @@
+{
+  "run_id": "motionbricks_evih_replay_001",
+  "source": "MotionBricks G1 MuJoCo generated qpos",
+  "target": "EvihAnimation",
+  "frame_count": 0,
+  "fps": 30,
+  "qpos_path": null,
+  "coordinate_contract_path": null,
+  "skeleton_map_path": null,
+  "png_dir": null,
+  "mp4_path": null,
+  "contact_sheet_path": null,
+  "all_rows_finite": false,
+  "png_count_ok": false,
+  "mp4_ok": false,
+  "motion_visible": false,
+  "source_was_ppm_only": false,
+  "replay_scope": "skeleton_only|geom|mesh",
+  "replay_pass": false,
+  "blocker": "not_run"
+}

@@ -1,0 +1,15 @@
+{
+  "script": "train_vqvae.py",
+  "dataset": "SyntheticMotionDataset",
+  "semantic_motion_model": false,
+  "num_steps": 0,
+  "batch_motion_shape": null,
+  "loss_first": null,
+  "loss_last": null,
+  "loss_finite": false,
+  "nan_detected": null,
+  "checkpoint_written": false,
+  "checkpoint_path": null,
+  "training_sanity_pass": false,
+  "blocker": "not_run"
+}

@@ -1,0 +1,22 @@
+{
+  "frame": 0,
+  "stage": "replan",
+  "mode_id": 2,
+  "mode_name": "walk",
+  "movement_direction": [0.0, 1.0, 0.0],
+  "facing_direction": [0.0, 1.0, 0.0],
+  "allowed_pred_num_tokens": [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0],
+  "context_mujoco_qpos_shape": [1, 4, 36],
+  "context_motion_features_shape": [1, 4, 418],
+  "target_root_positions_shape": [1, 2, 4],
+  "target_global_joint_positions_shape": [1, 4, 34, 3],
+  "global_root_values_shape": [1, 8, 5],
+  "local_root_values_shape": [1, 8, 4],
+  "local_poses_shape": [1, 8, -1],
+  "pred_num_tokens": 6,
+  "pred_pose_tokens_shape": [1, 16, -1],
+  "pred_global_motions_shape": [1, 24, 418],
+  "generated_mujoco_qpos_shape": [1, 24, 36],
+  "all_finite": true,
+  "blocker": null
+}

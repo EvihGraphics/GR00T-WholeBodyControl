@@ -1,0 +1,16 @@
+{
+  "run_id": "motionbricks_g1_demo_001",
+  "repo": "NVlabs/GR00T-WholeBodyControl/motionbricks",
+  "runtime": "MuJoCo G1",
+  "checkpoint_status": "ready",
+  "viewer_mode": "viewer|headless",
+  "fps": 30,
+  "max_steps": 300,
+  "png_dir": "output/motionbricks_lite/runtime/png",
+  "mp4_path": "output/motionbricks_lite/runtime/motionbricks_g1_demo.mp4",
+  "trace_path": "output/motionbricks_lite/runtime/runtime_trace.jsonl",
+  "qpos_dim": 36,
+  "motion_feature_dim": 418,
+  "runtime_pass": false,
+  "blocker": "not_run"
+}
